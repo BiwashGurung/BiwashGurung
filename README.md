@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Flutter**
 
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Frontend Development,Java,Python**
 
 - 📫 How to reach me **biwashgrg10@gmail.com**
 
