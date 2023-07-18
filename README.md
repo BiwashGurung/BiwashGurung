@@ -3,20 +3,19 @@
 <h1 align="center">Hi 👋, I'm Biwash Gurung</h1>
 <h3 align="center">Future Frontend & Software developer from Nepal</h3>
 
-<img align="rignt" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biwashgurung&label=Profile%20views&color=0e75b6&style=flat" alt="biwashgurung" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/biwash-gurung](www.linkedin.com/in/biwash-gurung)
 
 - 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **biwashgrg10@gmail.com**
 
-- 📄 See my portfolio at [www.biwashgurung.com.np](www.biwashgurung.com.np)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
