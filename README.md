@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/biwash-gurung/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biwash gurung" height="30" width="40" />    </a>
-<a href="https://fb.com/dexygurung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dexy gurung" height="30" width="40" /></a>
-<a href="https://instagram.com/dexy_nation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dexy_nation" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/biwash-gurung/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biwash gurung" height="30" width="40" /></a>
+<a href="https://https://www.facebook.com/dexy.1738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dexy gurung" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dexy_nation/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dexy_nation" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
