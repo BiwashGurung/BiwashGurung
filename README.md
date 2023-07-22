@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Biwash Gurung</h1>
 <h3 align="center">Future Frontend & Software developer from Nepal</h3>
+ <p>A multi-talented creative professional specializing in graphics design, video editing, photo editing, photography, web development, frontend development, UI/UX design, and freelance work. With a passion for visual storytelling, I aim to create captivating experiences that leave a lasting impression. 
+            </p>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
