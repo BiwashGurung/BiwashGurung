@@ -34,9 +34,12 @@
 
 
 # 📊GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=biwash-gurung&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=biwash-gurung&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=biwash-gurung&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biwashgurung&theme=dark&hide_border=false alt="biwashgurung" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biwashgurung&show_icons=true&locale=en" alt="biwashgurung" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biwashgurung&" alt="biwashgurung" /></p>
+
 
 
 
