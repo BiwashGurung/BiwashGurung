@@ -5,7 +5,7 @@
  <p>A multi-talented creative professional specializing in graphics design, video editing, photo editing, photography, web development, frontend development, UI/UX design, and freelance work. With a passion for visual storytelling, I aim to create captivating experiences that leave a lasting impression. 
             </p>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biwashgurung&label=Profile%20views&color=0e75b6&style=flat" alt="biwashgurung" /> </p>
@@ -22,7 +22,7 @@
   
 
 # Connect with me:
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/biwash-gurung/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biwash gurung" height="30" width="40" /></a>
 <a href="https://www.facebook.com/dexy.1738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dexy gurung" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dexy_nation/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dexy_nation" height="30" width="40" /></a>
@@ -71,7 +71,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)                                                  <p align="center">
+                                                 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiwashGurung&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />    
 </p>
 
