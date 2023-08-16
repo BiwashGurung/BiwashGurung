@@ -1,7 +1,7 @@
 ![logo](https://github.com/BiwashGurung/BiwashGurung/blob/main/Logo%20banner.png)
 
 # <h1 align="center">Hi 👋, I'm Biwash Gurung</h1>
-<h3 align="center">Future Frontend & Software developer from Nepal</h3>
+<h3 align="center">Frontend Developer from Nepal</h3>
  <p>A multi-talented creative professional specializing in graphics design, video editing, photo editing, photography, web development, frontend development, UI/UX design, and freelance work. With a passion for visual storytelling, I aim to create captivating experiences that leave a lasting impression. 
             </p>
 
