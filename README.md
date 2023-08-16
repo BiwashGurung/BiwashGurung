@@ -1,4 +1,4 @@
-![logo](https://github.com/BiwashGurung/BiwashGurung/blob/main/Logo%20banner.png)
+<img src ="https://github.com/BiwashGurung/BiwashGurung/blob/main/gif.gif">
 
 # <h1 align="center">Hi 👋, I'm Biwash Gurung</h1>
 <h3 align="center">Frontend Developer from Nepal</h3>
