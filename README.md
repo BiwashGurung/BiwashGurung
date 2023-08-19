@@ -1,6 +1,10 @@
 <img src ="https://github.com/BiwashGurung/BiwashGurung/blob/main/gif.gif">
 
-# <h1 align="center">Hi 👋, I'm Biwash Gurung</h1>
+<h1 align="center">
+ <img src ="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+There+!;I'm+Biwash+Gurung;" />
+
+
+
 <h3 align="center">Frontend Developer from Nepal</h3>
  <p>A multi-talented creative professional specializing in graphics design, video editing, photo editing, photography, web development, frontend development, UI/UX design, and freelance work. With a passion for visual storytelling, I aim to create captivating experiences that leave a lasting impression. 
             </p>
@@ -60,8 +64,10 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BiwashGurung&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
-
-
+<br></br>
+<h3 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Thankyou+for+visiting+!;Email+me+when+you+need+help;I'm+always+ready+to+collab+">
+</h3>
 
 
 
