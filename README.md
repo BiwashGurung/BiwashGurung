@@ -28,15 +28,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.biwashgurung.com.np/">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
 # Languages and Tools :
                                     
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,ae,python,javascript,typescript,express,firebase,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=react,arduino,idea,dart,eclipse,flutter,autocad,androidstudio,blender,django,cloudflare" /><br>
+    <img src = "https://skillicons.dev/icons?i=azure,bootstrap,c,java,mysql,html,css,vscode,ps,xd,php,pr,figma,git,linux" />
 </div>
 
 
