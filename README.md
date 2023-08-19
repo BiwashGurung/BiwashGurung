@@ -66,7 +66,7 @@
 
 <br></br>
 <h3 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Thankyou+for+visiting+!;Email+me+when+you+need+help;I'm+always+ready+to+collab+">
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Thankyou+for+visiting+!;Email+me+when+you+want+to+collab;I'm+always+ready+to+collab+">
 </h3>
 
 
