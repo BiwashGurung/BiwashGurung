@@ -6,7 +6,7 @@
 
 
 <h3 align="center">Frontend Developer from Nepal 🇳🇵</h3>
- <p>A multi-talented creative professional specializing in graphics design, video editing, photo editing, photography, web development, frontend development, UI/UX design, and freelance work. With a passion for visual storytelling, I aim to create captivating experiences that leave a lasting impression. 
+ <p>"Creating flawless digital experiences as a dedicated frontend developer. Converting concepts into user-friendly and visually stunning interfaces, with each line of code I write."
             </p>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
