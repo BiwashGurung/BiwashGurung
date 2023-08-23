@@ -4,6 +4,9 @@
  <img src ="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+There+!;I'm+Biwash+Gurung;" />
 
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=biwashgurung&label=views&color=000000&style=flat" alt="biwashgurung" width="100" height="50" />
+</p>
 
 <h2 align="center">Frontend Developer from Nepal 🇳🇵</h2>
  <p>"Creating flawless digital experiences as a dedicated frontend developer. Converting concepts into user-friendly and visually stunning interfaces, with each line of code I write."
@@ -12,9 +15,6 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=biwashgurung&label=views&color=000000&style=flat" alt="biwashgurung" width="100" height="50" />
-</p>
 
 
 - 🌱 I’m currently learning **Flutter**
