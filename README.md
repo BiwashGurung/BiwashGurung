@@ -12,7 +12,7 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biwashgurung&label=Profile%20views&color=0e75b6&style=flat" alt="biwashgurung" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=biwashgurung&label=views&color=2F5A78&style=flat" alt="biwashgurung" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
