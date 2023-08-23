@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center">Frontend Developer from Nepal 🇳🇵</h3>
+<h2 align="center">Frontend Developer from Nepal 🇳🇵</h2>
  <p>"Creating flawless digital experiences as a dedicated frontend developer. Converting concepts into user-friendly and visually stunning interfaces, with each line of code I write."
             </p>
 
