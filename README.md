@@ -7,7 +7,7 @@
 
 <h2 align="center">Frontend Developer from Nepal 🇳🇵</h2>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=biwashgurung&label=views&color=000000&style=flat" alt="biwashgurung" width="100" height="30" />
+  <img src="https://komarev.com/ghpvc/?username=biwashgurung&label=watching&color=000000&style=flat" alt="biwashgurung" width="100" height="30" />
 </p>
  <p><strong>"Creating flawless digital experiences as a dedicated frontend developer. Converting concepts into user-friendly and visually stunning interfaces, with each line of code I write."
  </strong> </p>
