@@ -40,7 +40,9 @@
 </div>
 
 # Languages and Tools :
-                                    
+    <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiwashGurung&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />    
+</p>                                
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,ae,python,javascript,typescript,express,firebase,mongodb" /><br>
     <img src="https://skillicons.dev/icons?i=react,arduino,idea,dart,eclipse,flutter,autocad,androidstudio,blender,django,cloudflare" /><br>
@@ -55,9 +57,7 @@
 
 
 #  GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiwashGurung&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />    
-</p>
+
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=BiwashGurung&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /> 
