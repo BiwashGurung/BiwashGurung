@@ -17,7 +17,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **Frontend Development, Java, Python**
 
