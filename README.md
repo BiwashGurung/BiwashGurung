@@ -44,9 +44,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiwashGurung&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />    
 </p>                                
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,ae,python,javascript,typescript,express,firebase,mongodb" /><br>
-    <img src="https://skillicons.dev/icons?i=react,arduino,idea,dart,eclipse,flutter,autocad,androidstudio,blender,django,cloudflare" /><br>
-    <img src = "https://skillicons.dev/icons?i=azure,bootstrap,c,java,mysql,html,css,vscode,ps,xd,php,pr,figma,git,linux" />
+    <img src="https://skillicons.dev/icons?i=github,python,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=react,arduino,idea,eclipse,cloudflare" /><br>
+    <img src = "https://skillicons.dev/icons?i=bootstrap,c,java,mysql,html,css,figma,git,linux,tailwindcss" />
 </div>
 
 
@@ -56,12 +56,7 @@
 
 
 
-#  GitHub Stats:
 
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=BiwashGurung&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /> 
-</p>
 
 
 
