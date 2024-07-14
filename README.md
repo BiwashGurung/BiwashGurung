@@ -17,7 +17,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **.Net**
 
 - 💬 Ask me about **Frontend Development, Java, Python**
 
