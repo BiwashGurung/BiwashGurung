@@ -17,7 +17,7 @@
 
 
 
-- 🌱 I’m currently learning **.Net**
+- 🌱 I’m currently learning **.Net , PHP**
 
 - 💬 Ask me about **Frontend Development, Java, Python**
 
