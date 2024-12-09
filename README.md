@@ -17,9 +17,9 @@
 
 
 
-- 🌱 I’m currently learning **.Net , PHP**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
-- 💬 Ask me about **Frontend Development, Java, Python**
+- 💬 Ask me about **Frontend Development,Python, Django**
 
 
 
